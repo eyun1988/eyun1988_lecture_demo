@@ -1,3 +1,9 @@
+int super_print()
+{
+    printf("asdfasdf");
+	return 1;
+}
+
 int main()
 {
     // bacon
