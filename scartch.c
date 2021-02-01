@@ -1,7 +1,8 @@
-int super_print()
+int print_all()
 {
-    printf("asdfasdf");
-	return 1;
+    int x = 1;
+    printf("%i", x);
+    return x;
 }
 
 int main()
