@@ -1,3 +1,9 @@
+int print_all(){
+	int x = 1;
+	printf("%i", x);
+	return x;
+}
+
 int main()
 {
     // bacon
